@@ -1,0 +1,120 @@
+commit 73388f91472931cb14dbaee3ee87153b88656b11
+Author: csprusty <csprusty@gmail.com>
+Date:   Thu Mar 24 15:51:58 2022 +0000
+
+    fixed the issue of student info data
+
+commit b9291f1d4f8335c924269cc44ac1ea3004e28e3e
+Author: csprusty <csprusty@gmail.com>
+Date:   Thu Mar 24 15:44:02 2022 +0000
+
+    added source code for analysis based on disability
+
+commit 29bf822c27fa12851fc1de6dea3fd131fa5f1b49
+Author: csprusty <csprusty@gmail.com>
+Date:   Thu Mar 24 15:31:33 2022 +0000
+
+    code change for student activity
+
+commit f5019c5c31189c0e90ab4dd3b4b2cbd20acc5efb
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Mon Mar 21 12:40:02 2022 +0000
+
+    Add files via upload
+
+commit 5faaa7df423b515716a7a3f9504a3a49dd82a447
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 21 12:34:42 2022 +0000
+
+    student registration details
+
+commit b24cfa9b50da6ecd98375ab0dfef2231186ed4b4
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 21 12:32:06 2022 +0000
+
+    various activity types
+
+commit 88b5390646a2309a154175f1b3a7ceabb09409a2
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 21 12:26:58 2022 +0000
+
+    Number of attempts by students
+
+commit 6f7a14a5f08f30bb1bbe66b038a2c0ba3ad79d1a
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 21 12:24:50 2022 +0000
+
+    fixed git error
+
+commit c9292ee1f44a0a7621aefd6c8c5d296f936193a4
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 21 11:43:58 2022 +0000
+
+    configuration to push files
+
+commit cd93ebe1550a7ec4831bec14aef8042071e334d8
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 14 22:05:17 2022 +0000
+
+    deleted blank folders
+
+commit c3524019fe6f0d99187df04c4f892ec7923256df
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 14 21:49:55 2022 +0000
+
+    relu
+
+commit 94f27d577c8e3c58b8a9b40016a1c223ca71fbf1
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 14 21:48:01 2022 +0000
+
+    test
+
+commit c1f4c2cff8df7633202fcef44b1a53910274cfd7
+Merge: 1fa7085 4172bae
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 14 21:32:27 2022 +0000
+
+    Merge branch 'master' of https://github.com/csprusty/csprusty
+
+commit 1fa7085ab9692ca65d937bc02900a84ff9f5305c
+Author: csprusty <csprusty@gmail.com>
+Date:   Mon Mar 14 20:58:03 2022 +0000
+
+    relu
+
+commit 4172baeabad09d111b5a1236f286b9a76082d6a9
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Sat Jan 2 10:20:59 2021 +0530
+
+    m
+
+commit ac37e34fd74ec93cecca4ef4a3aeca2c055740e0
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Tue Dec 22 11:38:25 2020 +0530
+
+    c
+
+commit 3b24b6eea3ef85730d581c3673cf0956b8ccd402
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Thu Dec 17 16:52:22 2020 +0530
+
+    l
+
+commit dadc1850b852856714d3806553c57ed4e5c0f4c7
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Wed Dec 16 16:18:01 2020 +0530
+
+    ,
+
+commit ae8b1448318bff4e2f0dcc2ccb929bcbf2e6ace1
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Wed Dec 16 16:15:06 2020 +0530
+
+    commit
+
+commit f8a057934c93c3eb9510a0a9cad1904fde0769d5
+Author: csprusty <66483212+csprusty@users.noreply.github.com>
+Date:   Tue Dec 15 21:16:20 2020 +0530
+
+    test
